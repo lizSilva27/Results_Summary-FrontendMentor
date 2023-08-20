@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/lizSilva27/Results_Summary-FrontendMentor]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://results-summary-ftm.netlify.app]
 
 ## My process
 
